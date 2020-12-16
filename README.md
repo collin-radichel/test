@@ -17,3 +17,8 @@ stop the ride
 
 stop all the rides
 `killall node`
+
+
+## RESTful (API)
+GET -- (Read) Data 
+POST -- (Create) Data
